@@ -2,3 +2,18 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'doityourblog'
 theme = 'mainroad'
+
+
+[Author]
+  name = "rick"
+  bio = "hey tutek?"
+
+[Params]
+  toc = true
+  pager = true
+
+[Params.sidebar]
+  home = "right"
+  list = "left"
+  widgets = ["search", "recent"]
+
