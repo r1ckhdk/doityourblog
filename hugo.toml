@@ -11,6 +11,7 @@ sectionPagesMenu = 'main'
 [Params]
   toc = true
   pager = true
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
 
 [Params.sidebar]
   home = "right"
@@ -18,6 +19,7 @@ sectionPagesMenu = 'main'
   widgets = ["search", "recent", "categories", "social"]
 
 [Params.style.vars]
+  fontFamilyPrimary = "JetBrains Mono"
   highlightColor = "#efcc00"
 
 [Params.widgets.social]
