@@ -1,8 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'doityourblog'
-theme = 'mainroad'
-
+theme = 'roadster'
+sectionPagesMenu = 'main'
 
 [Author]
   name = "rick"
@@ -14,6 +14,14 @@ theme = 'mainroad'
 
 [Params.sidebar]
   home = "right"
-  list = "left"
-  widgets = ["search", "recent"]
+  list = "right"
+  widgets = ["search", "recent", "categories", "social"]
 
+[Params.style.vars]
+  highlightColor = "#efcc00"
+
+[Params.widgets.social]
+  cached = true
+  github = "r1ckhdk"
+  mastodon = "@malukopower"
+  email = "rick@riseup.net"
