@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://doityourblog.org/'
 languageCode = 'en-us'
 title = 'doityourblog'
 theme = 'roadster'

@@ -1,6 +1,6 @@
 +++
 date = '2026-01-30T11:58:19-03:00'
-draft = true
+draft = false
 title = 'Hello World'
 +++
 
@@ -8,4 +8,6 @@ Meu primeiro blog.
 
 *Tá ligado?*
 
-Abraços.
+The Dude Abides.
+
+![lebowski](/img/the-big-lebowski.jpg)
