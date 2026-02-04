@@ -1,5 +1,9 @@
-pipeline:
-  build-and-deploy:
+when:
+  - event: push
+    branch: main
+
+steps:
+  - name: build-and-deploy
     image: docker:23.0.1   # imagem que já tem docker CLI
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock   # pra controlar containers do host
@@ -10,5 +14,3 @@ pipeline:
       - cd /blog
       - $HUGO_CMD build         # executa o wrapper Hugo
       - docker exec nginx nginx -s reload  # reload do Nginx
-    when:
-      branch: main
