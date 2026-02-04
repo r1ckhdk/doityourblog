@@ -1,7 +1,7 @@
 # doityourblog
 Just my own backyard on the lazyweb.
 
-You can find my blog at [doityourblog.com](https://doityourblog.com).
+You can find my blog at [doityourblog.org](https://doityourblog.org).
 
 Currently I'm self hosting it with [Hugo](https://gohugo.io/), [nginx](https://nginx.org/) and [CloudFlare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/).
 
