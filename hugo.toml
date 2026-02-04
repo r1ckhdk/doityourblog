@@ -2,7 +2,6 @@ baseURL = 'https://doityourblog.org/'
 languageCode = 'pt-br'
 title = 'doityourblog'
 theme = 'roadster'
-sectionPagesMenu = 'main'
 
 [Author]
   name = "rick"
@@ -15,14 +14,15 @@ sectionPagesMenu = 'main'
   googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
   post_meta = ["author", "date"]
   authorbox = true
-  schema = true
-  opengraph = true
 
 [Params.sidebar]
   home = "right"
   list = "right"
   single = "right"
   widgets = ["search", "recent", "categories", "social"]
+
+[Params.thumbnail]
+  visibility = ["list"]
 
 [Params.style.vars]
   fontFamilyPrimary = "JetBrains Mono"
@@ -34,3 +34,18 @@ sectionPagesMenu = 'main'
   mastodon = "@malukopower"
   email = "rick@riseup.net"
 
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Sobre'
+    pageRef = '/about'
+    weight = 15
+
+  [[menus.main]]
+    name = 'RSS'
+    url = '/index.xml'
+    weight = 20

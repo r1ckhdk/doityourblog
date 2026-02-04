@@ -1,6 +1,5 @@
 ---
 title: "Sobre"
-menu: sobre
 ---
 
 ## Essa é a página Sobre
