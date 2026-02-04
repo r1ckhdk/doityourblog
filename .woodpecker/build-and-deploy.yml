@@ -1,0 +1,14 @@
+pipeline:
+  build-and-deploy:
+    image: docker:23.0.1   # imagem que já tem docker CLI
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock   # pra controlar containers do host
+      - /home/rick/blogs/doityourblog:/blog               # diretório do seu blog
+    environment:
+      HUGO_CMD: "hugo"  # se quiser, pode parametrizar
+    commands:
+      - cd /blog
+      - $HUGO_CMD build         # executa o wrapper Hugo
+      - docker exec nginx nginx -s reload  # reload do Nginx
+    when:
+      branch: main
