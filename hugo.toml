@@ -11,11 +11,17 @@ sectionPagesMenu = 'main'
 [Params]
   toc = true
   pager = true
+  readmore = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
+  post_meta = ["author", "date"]
+  authorbox = true
+  schema = true
+  opengraph = true
 
 [Params.sidebar]
   home = "right"
   list = "right"
+  single = "right"
   widgets = ["search", "recent", "categories", "social"]
 
 [Params.style.vars]
@@ -27,3 +33,4 @@ sectionPagesMenu = 'main'
   github = "r1ckhdk"
   mastodon = "@malukopower"
   email = "rick@riseup.net"
+
