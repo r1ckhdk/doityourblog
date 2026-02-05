@@ -1,6 +1,6 @@
 +++
-date = '2026-02-04'
-draft = true
+date = '2026-02-05'
+draft = false
 title = 'Motivações'
 lead = "Por que caralhos tô escrevendo um blog em 2026?"
 thumbnail = "/img/shit.png"
@@ -26,9 +26,9 @@ Além disso, com a merdificação (ou bostificação, depende como você prefere
 
 ![shitdude](/img/shit.png)
 
-*Aliás, o Cory Doctorow tem um blog muito maneiro, o [The Pluralistic](https://pluralistic.net/), onde ele sempre usa imagens de domínio público (ou creative commons etc.) e faz colagens digitais  pra ilustrar seus posts. Então imagem acima eu peguei uma imagem da Wikimedia Commons e colei por cima de uma imagem usada [nesse post do Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/).*
+*Aliás, o Cory Doctorow tem um blog muito maneiro, o [The Pluralistic](https://pluralistic.net/), onde ele sempre usa imagens de domínio público (ou creative commons etc.) e faz colagens digitais  pra ilustrar seus posts. Então, pra montar a imagem acima, eu peguei um arquivo da Wikimedia Commons e colei por cima de uma imagem usada [nesse post do Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/).*
 
-*E mais um adendo: essa legenda acima é um exemplo de que eu preciso aprender um pouco da chatice que é html/css já que em Markdown não tem como alterar cor e tamanho da fonte...*
+*E mais um adendo: essa legenda é um exemplo de que eu preciso aprender um pouco da chatice que é html/css já que em Markdown não tem como alterar cor e tamanho da fonte...*
 
 ---
 
