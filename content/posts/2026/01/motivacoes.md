@@ -18,6 +18,8 @@ Mas por que caralhos eu tô escrevendo um blog em 2026?
 
 Fazem dois anos que eu comecei a entrar no mundo de *self hosting*, e depois de media e RSS server, clients de torrent/p2p, entre outros, o desafio de hostear um site na minha própria máquina surgiu naturalmente.
 
+Então, só pelo aprendizado, já está valendo a pena essa ideia. Pra subir o site tive que estudar e colocar a mão na massa sobre vários conceitos e programas. Desde comprar e configurar o domínio, entender sobre os records de DNS, gerador de site estático, webserver, túnel, a porra toda.
+
 Eu escrevia em blogs há mais de dez anos, junto com colegas e outros malucos da internet com interesses em comum, mas nunca foi algo consistente. Também já fui redator em site de esportes, cobrindo jogos, entrevistas pós-jogo etc. O problema é que era tudo mais impessoal, com alguns protocolos já definidos. Nunca tive um espaço **meu** na web. Pra falar o que quiser, com a formalidade ou informalidade com que eu quiser, com as palavras inventadas, palavrões e erros gramaticais que eu quiser.
 
 Além disso, com a merdificação (ou bostificação, depende como você prefere traduzir [o termo cunhado por Cory Doctorow](https://en.wikipedia.org/wiki/Enshittification)) da internet e das redes sociais, também foi natural a vontade de me distanciar do *doomscrolling* e do primo do Al Gore, o **Al Goritmo** (...heh).
