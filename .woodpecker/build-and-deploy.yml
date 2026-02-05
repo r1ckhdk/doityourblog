@@ -1,6 +1,5 @@
 when:
-  - event: push
-    branch: main
+  - branch: main
   - event: manual
 
 steps:
