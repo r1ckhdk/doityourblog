@@ -1,0 +1,14 @@
+steps:
+  - name: build-hugo
+    image: hugomods/hugo:exts
+    when:
+      - event: push
+        branch: main
+      - event: manual
+    volumes:
+      - /home/rick/blogs/doityourblog:/blog
+    environment:
+      HUGO_CMD: "hugo"
+    commands:
+      - cd /blog
+      - $HUGO_CMD build
