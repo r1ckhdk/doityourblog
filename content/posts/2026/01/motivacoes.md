@@ -1,6 +1,6 @@
 +++
 date = '2026-02-05'
-draft = false
+draft = true
 title = 'Motivações'
 lead = "Por que caralhos tô escrevendo um blog em 2026?"
 thumbnail = "/img/shit.png"
