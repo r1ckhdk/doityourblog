@@ -14,6 +14,7 @@ theme = 'roadster'
   googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
   post_meta = ["author", "date"]
   authorbox = true
+  customCSS = ["css/custom.css"]
 
 [Params.sidebar]
   home = "right"
@@ -33,6 +34,13 @@ theme = 'roadster'
   github = "r1ckhdk"
   mastodon = "@malukopower"
   email = "rick@riseup.net"
+
+
+# lets me user raw html in markdown files
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menus]
   [[menus.main]]
