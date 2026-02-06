@@ -8,7 +8,6 @@ theme = 'roadster'
   bio = "hey tutek?"
 
 [Params]
-  toc = true
   pager = true
   readmore = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
