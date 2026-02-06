@@ -11,3 +11,4 @@ Meu primeiro blog.
 
 The Dude Abides.
 
+![lookin out my back door]("/img/the-big-lebowski.jpg")

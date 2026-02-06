@@ -26,7 +26,7 @@ theme = 'roadster'
 
 [Params.style.vars]
   fontFamilyPrimary = "JetBrains Mono"
-  highlightColor = "#efcc00"
+  highlightColor = "#ffc40c"
 
 [Params.widgets.social]
   cached = true
