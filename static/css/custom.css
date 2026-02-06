@@ -1,3 +1,11 @@
 .center {
     text-align:center;
 }
+
+
+.image-caption {
+    text-align: center;
+    font-size: 0.95em;
+    color: #555;
+    margin-top: 5px;
+}

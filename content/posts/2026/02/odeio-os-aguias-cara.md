@@ -20,7 +20,7 @@ O Dude então diz que teve uma noite difícil e pede pro taxista mudar a estaç�
 ![script](/img/eagles-script.png)
 
 
-<p class="center"><em>Script da cena</em> (<a href=https://imsdb.com/scripts/Big-Lebowski,-The.html>Internet Movie Script Database</a>)</p>
+<p class="image-caption"><em>Script da cena</em> (<a href=https://imsdb.com/scripts/Big-Lebowski,-The.html>Internet Movie Script Database</a>)</p>
 
 ---
 

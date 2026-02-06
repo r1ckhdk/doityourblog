@@ -40,7 +40,7 @@ Dito isso, ainda gasto um bom tempo no YouTube, que com adblocker e Shorts desat
 
 Tudo acaba sendo um processo em buscar o que realmente te agrega e tentar diminuir ao máximo aquilo que tá mais sugando sua mente e tempo, do que que fato acrescentando algo. Apesar de admirá-los, não dá pra ser purista e radical como o Richard Stallman ou Luke Smith, mas também não consigo ser mais um conformado do bonde que pensa *"ah, mas todo mundo já tem nossos dados, que mal que tem? Pelo menos o Google nos dá uns serviços de ~graça~..."*
 
-Bom, com esse blog eu tenho o **meu próprio** espaço na web. Não é uma página/perfil sob o domínio do careca da Havan gringo (Bezos), do reptiliano estranho (Zuckerberg) ou do megalonazi (Musk). É o **meu** blog, rodando no **meu** computador, com **meu** web server, configurado e administrado por **mim**. Além disso, é uma página **pública** na web, em um protocolo **aberto**, onde **qualquer** pessoa pode acessar e ler, sem precisar **se cadastrar** ou ser **bombardeado por propagandas**.
+Bom, com esse blog eu tenho o **meu próprio** espaço na web. Não é uma página/perfil sob o domínio do careca da Havan gringo, do reptiliano estranho ou do megalonazi. É o **meu** blog, rodando no **meu** computador, com **meu** web server, configurado e administrado por **mim**. Além disso, é uma página **pública** na web, em um protocolo **aberto**, onde **qualquer** pessoa pode acessar e ler, sem precisar **se cadastrar** ou ser **bombardeado por propagandas**.
 
 Bizarro pensar que foi com o propósito de uma rede aberta, que o [Tim Bernes Lee criou a World Wide Web](https://www.ft.com/content/13e4fad3-9fa1-4534-b84e-aafed97ae073), e hoje fugir dos jardins murados do Google e da Meta é algo estranho de se ver.
 
