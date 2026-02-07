@@ -34,7 +34,7 @@ Além disso, com a merdificação (ou bostificação, depende como você prefere
 
 ---
 
-Eu já não tenho Facebook há anos. Fazia cerca de um ano que eu não acessava mais o Instagram e mês passado deletei minha conta definitivamente. Ainda tenho minha conta no Twitter, que agora é o playground do nazi megalomaníaco, mas não posto mais nada e nem acesso praticamente. O foda é que o X é um *walled garden* mais pesado ainda e preciso ter conta pra quando meus amigos mandam algum link de lá.
+Eu já não tenho mais Facebook e Instagram. Ainda tenho minha conta no Twitter, que agora é o playground do nazi megalomaníaco, mas não posto mais nada e nem acesso praticamente. O foda é que o X é um *walled garden* mais pesado ainda e preciso ter conta pra quando meus amigos mandam algum link de lá. Estou no Mastodon, mas ainda entro pouco lá, sigo poucas contas e fico mais de lurker, apesar de acreditar que as redes do fediverse são uma boa alternativa.
 
 Dito isso, ainda gasto um bom tempo no YouTube, que com adblocker e Shorts desativado na home fica bem mais tolerável, e no reddit, porém não uso o app oficial (algoritmo e muita propaganda) e no desktop uso somente com o layout antigo e com a extensão [RES](https://redditenhancementsuite.com/).
 

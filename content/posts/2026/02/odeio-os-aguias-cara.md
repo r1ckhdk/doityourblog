@@ -1,19 +1,19 @@
 +++
 date = '2026-02-06'
-draft = true
+draft = false
 title = 'Odeio os fodendo águias, cara'
 lead = 'O ódio aos Eagles que deixou o Jeff Bridges com o cu na mão e salvou uma grana pros Irmãos Coen'
 tags = ['TIL', 'cinema', 'música', 'The Big Lebowski']
-thumbnail = '/img/lebowski-eagles.jpg'
+thumbnail = '/img/eagles-lebowski.jpg'
 +++
 
 Que **The Big Lebowski** é o meu filme favorito não é muita novidade pra quem me conhece. E provável que eu fale muito dele por aqui e faça referência às dezenas de frases citáveis que tem no filme. 
 
-Como eu ainda tô com preguiça de começar a falar sobre como estou hosteando o blog e blábábá, esse post aqui vai ser curtinho contando uma curiosidade da obra prima dos Irmãos Coen. Tipo um TIL (*Today I Learned*). Só que na verdade fazem alguns dias que eu li sobre isso.
+Como eu ainda tô com preguiça de começar a falar sobre como estou hosteando o blog e blábábá, esse post aqui vai ser contando uma curiosidade da obra prima dos Irmãos Coen. Tipo um TIL (*Today I Learned*). Só que na verdade fazem alguns dias que eu li sobre isso.
 
 Tem uma cena clássica no filme, em que o Dude (Jeff Bridges) entra num táxi e a rádio tá tocando **Peaceful Easy Feeling**, dos Eagles. Detalhe pro nome da música, algo como "sentimento pacífico e tranquilo".
 
-![dude eagles](/img/dude-eagles.jpg)
+![dude eagles](/img/eagles-lebowski.jpg)
 
 
 Só que o Dude, que é pacifista, não tá nada pacífico e tranquilo quando entra no táxi. Ele tá puto da vida, porque acabou de ser tomar um boa noite cinderela dum gangstêr do pornô, ser preso e levar uns tapas dum delegado *"fucking fascist!"*.
@@ -56,11 +56,13 @@ Os Irmãos Coen chamaram **T Bone Burnett** para fazer a curadoria da trilha son
 
 Ele conseguiu desenrolar os direitos de músicas do Kenny Rogers, Gypsy Kings, Bob Dylan e Captain Beefheart. Mas mais difícil foi o [cover de Townes Van Zandt da música *Dead Flowers*](https://www.youtube.com/watch?v=FNlUhW0azKI), dos Rolling Stones.
 
-Allan Klein, empresário dos Stones na época, queria 150 mil dólares pra liberar a música. [Burnett então implorou para que Klein assistisse uma versão prévia do filme](https://www.rollingstone.com/music/music-news/inside-the-dudes-stoner-soundtrack-187983/), e quando chegou na cena do **I hate the fucking Eagles, man**, *"Klein ficou de pé e disse 'É isso, você pode ficar com a música!'. Isso foi lindo!"*
+Allan Klein, empresário dos Stones na época, queria 150 mil dólares pra liberar a música. [Burnett então implorou para que Klein assistisse uma versão prévia do filme](https://www.rollingstone.com/music/music-news/inside-the-dudes-stoner-soundtrack-187983/), e quando chegou na cena do **I hate the fucking Eagles, man**, o empresário concordou e rachou tanto, que deixou eles usarem a música de graça no filme.
+
+*"Klein ficou de pé e disse 'É isso, você pode ficar com a música!'. Isso foi lindo!"*
 
 Para Burnett, o Dude está certo. *"[Os Eagles] meio que, sozinhos, destruíram toda a cena que estava se formando naquela época".*
 
-Eu fico do lado do Dude e do T Bone.
+Eu também fico do lado do Dude, T Bone e Creedence.
 
 ---
 
@@ -71,4 +73,4 @@ Eu fico do lado do Dude e do T Bone.
 - [Rolling Stone: Inside The Dude's Stoner Soundtrack](https://www.rollingstone.com/music/music-news/inside-the-dudes-stoner-soundtrack-187983/)
 - [Wikipedia: The Big Lebowski (Soundtrack)](https://en.wikipedia.org/wiki/The_Big_Lebowski_(soundtrack))
 
-> Caso você fique preso no paywall pra ler esses artigos, só usar o magnífico [Remove Paywalls](https://removepaywalls.com/)
+> Caso você fique preso no paywall pra ler esses artigos, só usar o [Remove Paywalls](https://removepaywalls.com/)
