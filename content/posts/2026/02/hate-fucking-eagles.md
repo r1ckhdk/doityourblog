@@ -1,7 +1,7 @@
 +++
 date = '2026-02-06'
 draft = false
-title = 'Odeio os fodendo águias, cara'
+title = 'I hate the fucking Eagles, man'
 lead = 'O ódio aos Eagles que deixou o Jeff Bridges com o cu na mão e salvou uma grana pros Irmãos Coen'
 tags = ['TIL', 'cinema', 'música', 'The Big Lebowski']
 thumbnail = '/img/eagles-lebowski.jpg'
