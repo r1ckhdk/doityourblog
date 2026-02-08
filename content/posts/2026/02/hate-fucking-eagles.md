@@ -15,6 +15,7 @@ Tem uma cena clássica no filme, em que o Dude (Jeff Bridges) entra num táxi e 
 
 ![dude eagles](/img/eagles-lebowski.jpg)
 
+<p class="image-caption"><em>O Dude provavelmente não deve gostar de um esporte violento como futebol americano, e se gostasse, com certeza não torceria para Philadelphia.</em></p>
 
 Só que o Dude, que é pacifista, não tá nada pacífico e tranquilo quando entra no táxi. Ele tá puto da vida, porque acabou de ser tomar um boa noite cinderela dum gangstêr do pornô, ser preso e levar uns tapas dum delegado *"fucking fascist!"*.
 
