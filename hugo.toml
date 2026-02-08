@@ -11,7 +11,7 @@ theme = 'roadster'
   pager = true
   readmore = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
-  post_meta = ["author", "date"]
+  post_meta = ["author", "date", "categories"]
   authorbox = true
   customCSS = ["css/custom.css"]
 
@@ -19,7 +19,7 @@ theme = 'roadster'
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "recent", "categories", "social"]
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.thumbnail]
   visibility = ["list"]
