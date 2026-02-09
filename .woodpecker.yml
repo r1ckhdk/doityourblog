@@ -13,3 +13,4 @@ steps:
       - cd /blog
       - rm -rf public/
       - $HUGO_CMD build
+      - chmod -R 755 public/
