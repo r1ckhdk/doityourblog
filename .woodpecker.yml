@@ -6,12 +6,10 @@ steps:
         branch: main
       - event: manual
     volumes:
-      - /home/rick/blogs/doityourblog:/blog
+      - /home/rick/blogs/doityourblog/public:/blog/public
     environment:
       HUGO_CMD: "hugo"
     commands:
+      - cp /woodpecker/src/github.com/r1ckhdk/doityourblog /blog
       - cd /blog
-      - git status
-      - git log
-      - cat content/about/_index.md
       - $HUGO_CMD build
