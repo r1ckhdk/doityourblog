@@ -3,6 +3,7 @@ date = '2026-02-09'
 draft = false
 title = 'Quando o algoritmo acerta... #01'
 lead = "You can't arrange them by penis"
+tags = ['viral', 'youtube', 'tecnologia' ]
 +++
 
 Tenho que admitir que às vezes o algoritmo do YouTube acerta em cheio.
