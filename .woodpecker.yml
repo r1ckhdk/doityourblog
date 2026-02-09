@@ -11,5 +11,7 @@ steps:
       HUGO_CMD: "hugo"
     commands:
       - cd /blog
+      - git status
+      - git log
+      - cat content/about/_index.md
       - $HUGO_CMD build
-      - ls -la content/posts/2026/02/
