@@ -12,5 +12,4 @@ steps:
     commands:
       - cd /blog
       - $HUGO_CMD build
-      - ls -la .
-      - ls -la public/
+      - ls -la content/posts/2026/02/
