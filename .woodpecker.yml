@@ -10,6 +10,6 @@ steps:
     environment:
       HUGO_CMD: "hugo"
     commands:
-      - cp /woodpecker/src/github.com/r1ckhdk/doityourblog /blog
+      - cp -r /woodpecker/src/github.com/r1ckhdk/doityourblog /blog
       - cd /blog
       - $HUGO_CMD build
