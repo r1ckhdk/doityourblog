@@ -11,4 +11,5 @@ steps:
       HUGO_CMD: "hugo"
     commands:
       - cd /blog
+      - rm -rf public/
       - $HUGO_CMD build
