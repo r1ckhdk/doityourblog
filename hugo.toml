@@ -1,6 +1,6 @@
 baseURL = 'https://doityourblog.org/'
 languageCode = 'pt-br'
-title = 'doityourblog'
+title = 'DOITYOURBLOG'
 theme = 'roadster'
 
 [Author]
