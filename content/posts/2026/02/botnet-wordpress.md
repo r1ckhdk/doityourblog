@@ -4,6 +4,7 @@ draft = false
 title = 'Botnet atacando meu blog'
 lead = 'Ainda bem que eu não tô usando WordPress'
 thumbnail = '/img/wordpress-bots.png'
+tags = ['tecnologia', 'internet', 'selfhosting']
 +++
 
 Quando eu subi esse blog a primeira vez via web server, fui acompanhar os logs e estranhei a presença de algumas requisições. Porra, eu tinha acabado de subir o site, como que já tinha alguém acessando?
