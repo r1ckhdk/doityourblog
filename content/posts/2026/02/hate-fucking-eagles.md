@@ -13,7 +13,7 @@ Como eu ainda tô com preguiça de começar a falar sobre como estou hosteando o
 
 Tem uma cena clássica no filme, em que o Dude (Jeff Bridges) entra num táxi e a rádio tá tocando **Peaceful Easy Feeling**, dos Eagles. Detalhe pro nome da música, algo como "sentimento pacífico e tranquilo".
 
-![dude eagles](/img/eagles-lebowski.jpg)
+![[dude eagles](img/eagles-lebowski.jpg)](/img/eagles-lebowski.jpg)
 
 <p class="image-caption"><em>O Dude provavelmente não deve gostar de um esporte violento como futebol americano, e se gostasse, com certeza não torceria para Philadelphia.</em></p>
 
@@ -23,7 +23,7 @@ O Dude então diz que teve uma noite difícil e pede pro taxista mudar a estaç�
 
 ---
 
-![script](/img/eagles-script.png)
+![[script](/img/eagles-script.png)](/img/eagles-script.png)
 
 
 <p class="image-caption"><em>Script da cena</em> (<a href=https://imsdb.com/scripts/Big-Lebowski,-The.html>Internet Movie Script Database</a>)</p>

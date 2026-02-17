@@ -26,7 +26,7 @@ Além disso, com a merdificação (ou bostificação, depende como você prefere
 
 ---
 
-![shitdude](/img/shit.png)
+![[shitdude](/img/shit.png)](/img/shit.png)
 
 *Aliás, o Cory Doctorow tem um blog muito maneiro, o [The Pluralistic](https://pluralistic.net/), onde ele sempre usa imagens de domínio público (ou creative commons etc.) e faz colagens digitais  pra ilustrar seus posts. Então, pra montar a imagem acima, eu peguei um arquivo da Wikimedia Commons e colei por cima de uma imagem usada [nesse post do Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/).*
 
