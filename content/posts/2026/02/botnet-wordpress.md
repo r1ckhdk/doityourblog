@@ -17,7 +17,7 @@ Mas tá tudo certo porque meu blog é **estático**.
 
 <!--more-->
 
-![[botnet-wordpress](/img/wordpress-bots.png)](/img/wordpress-bots.png)
+[![logs do nginx](/img/wordpress-bots.png)](/img/wordpress-bots.png)
 
 A maioria dessas requisições são tentativas de verificar se existem endpoints de administração de algum CMS, como o Wordpress, ou de qualquer serviço que possa deixar uma API ou uma página de login exposta.
 
