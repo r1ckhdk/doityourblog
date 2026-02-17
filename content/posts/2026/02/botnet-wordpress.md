@@ -31,7 +31,7 @@ Aqui no blog não há nenhum código php ou javascript rodando, não há nenhum 
 
 Então por isso, eu posso simplesmente olhar esses logs e ficar de boa. Que se foda, vão arrumar nada aqui.
 
-Claro que também por estar servindo o blog também por meio de um [CloudFlare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/), eu tenho uma camada extra de proteção, já que o CloudFlare bloqueia a maioria dessas requisições antes mesmo de chegar no meu servidor (principalmente as de crawlers de IA).
+Claro que por estar servindo o blog por meio de um [CloudFlare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/), eu tenho uma camada extra de proteção, já que o CloudFlare bloqueia a maioria dessas requisições antes mesmo de chegar no meu servidor (principalmente as de crawlers de IA).
 
 A única interação que eu gostaria de implementar aqui no futuro, é a função de comentários. Mas ainda não tô esquentando a cabeça com isso.
 
