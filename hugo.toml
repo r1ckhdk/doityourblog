@@ -13,6 +13,7 @@ theme = 'roadster'
 
 [Params.sidebar]
   home = "right"
+  single = "right"
   list = "right"
   widgets = ["search", "recent", "categories", "taglist", "social"]
 
