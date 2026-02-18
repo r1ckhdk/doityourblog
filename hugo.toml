@@ -3,10 +3,6 @@ languageCode = 'pt-br'
 title = 'DOITYOURBLOG'
 theme = 'roadster'
 
-[Author]
-  name = "rick"
-  bio = "hey tutek?"
-
 [Params]
   pager = true
   readmore = true
@@ -18,7 +14,6 @@ theme = 'roadster'
 [Params.sidebar]
   home = "right"
   list = "right"
-  single = "right"
   widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.thumbnail]
