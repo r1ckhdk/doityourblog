@@ -13,7 +13,7 @@ Como eu ainda tô com preguiça de começar a falar sobre como estou hosteando o
 
 Tem uma cena clássica no filme, em que o Dude (Jeff Bridges) entra num táxi e a rádio tá tocando **Peaceful Easy Feeling**, dos Eagles. Detalhe pro nome da música, algo como "sentimento pacífico e tranquilo".
 
-[![Dude olhando com cara de desdém pro logo do Philadelphia Eagles](img/eagles-lebowski.jpg)](/img/eagles-lebowski.jpg)
+[![Dude olhando com cara de desdém pro logo do Philadelphia Eagles](/img/eagles-lebowski.jpg)](/img/eagles-lebowski.jpg)
 
 <p class="image-caption"><em>O Dude provavelmente não deve gostar de um esporte violento como futebol americano, e se gostasse, com certeza não torceria para Philadelphia.</em></p>
 
