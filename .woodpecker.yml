@@ -1,14 +1,18 @@
+when:
+  - event: push
+    branch: main
+  - event: manual
+
 steps:
-  - name: build-hugo
+  - name: build
     image: hugomods/hugo:exts
-    when:
-      - event: push
-        branch: main
-      - event: manual
-    volumes:
-      - /home/rick/blogs/doityourblog:/blog
-    environment:
-      HUGO_CMD: "hugo"
     commands:
-      - cd /blog
-      - $HUGO_CMD build
+      - hugo build
+
+  - name: deploy
+    image: alpine
+    volumes:
+      - /home/rick/blogs/doityourblog/public:/deploy
+    commands:
+      - rm -rf /deploy/*
+      - cp -r public/* /deploy/
