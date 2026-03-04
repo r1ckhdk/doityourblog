@@ -15,5 +15,10 @@ Só um usuário respondeu algo a ver com a foto, apenas com um [link de um produ
 
 Trata-se de um livro de 1996 chamado **Mexico Through Foreign Eyes: Vistos por Ojos Extranjeros 1850-1990**. Como o nome sugere, é uma coletânea que abrange quase 150 anos de imagens feitas por fotógrafos *gringos* no México. E a capa do álbum dos Los Crudos não só estava mesmo nessa compilação, como é a capa do livro também.
 
-Bom, eu não ia ficar sem matar minha curiosidade sobre o contexto dessa foto, mas também não ia gastar U$15 + frete. 
+Bom, eu não ia ficar sem matar minha curiosidade sobre o contexto dessa foto, só que também não ia gastar U$15 + frete. Mas graças aos seguidores do Barba Negra e ao arquivo da Anna, consegui uma cópia digitalizada do livro.
 
+ >falar sobre o inicio do livro e sobre o que ele é
+
+> falas sobre a fotógrafa 
+> falar sobre o cara da capa e o contexto religioso
+> falar sobre o los crudos
