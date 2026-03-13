@@ -4,7 +4,6 @@ draft = true
 title = 'Los Crudos Capa'
 lead = ''
 tags = []
-thumbnail =
 +++
 
 Esses dias eu tava ouvindo a [compilação **Discografía** do **Los Crudos**](), e pensei, *"porra, daonde é essa foto da capa?"*, aí a portinhola da toca se abriu e o coelho me chamou.
