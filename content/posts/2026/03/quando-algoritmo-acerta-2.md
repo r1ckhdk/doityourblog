@@ -1,7 +1,7 @@
 +++
 date = '2026-03-13'
 draft = false
-title = 'Quando Algoritmo Acerta #02'
+title = 'Quando o algoritmo acerta... #02'
 lead = 'Jungle produzido num AMIGA 1200 (wtf?)'
 tags = ['algoritmo', 'youtube', 'música', 'jungle', 'breakbeat', 'retro']
 +++
