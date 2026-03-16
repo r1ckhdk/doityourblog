@@ -40,6 +40,8 @@ Ele lista como seus interesses design gráfico e CGI retrô, ler/escrever e visi
 
 Mas o que mais me chamou atenção, é que, além de outras quinquilharias antigas, ele usou um computador [Amiga 1200](https://en.wikipedia.org/wiki/Amiga_1200) pra produzir o álbum, e de acordo com a própria página sobre, é a primeira pessoa na Coreia do Sul a usar uma Amiga para discotecar.
 
+Na verdade, ele diz que nesse álbum, o Amiga 1200 foi utilizado apenas como sampler (a lista de gear usada no CD é extensa), mas que ocasionalmente ele produz faixas inteiras nesse artefato.
+
 Tudo que eu queria agora era que ele fizesse um vídeo produzindo e quebrando umas beats nessa bagaça.
 
 ---
